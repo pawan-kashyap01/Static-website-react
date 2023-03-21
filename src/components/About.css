@@ -1,0 +1,41 @@
+.about {
+  background-color: rgb(237, 235, 241);
+  height: 100vh;
+  width: 94%;
+  margin: 0px 3%;
+}
+
+.about h1 {
+  text-decoration: underline green double 3px;
+}
+.image {
+  width: 90%;
+  height: 50%;
+  margin-top: 3%;
+  background-position: center;
+}
+.about-info {
+  background-color: var(--main-yellow);
+  height: 100%;
+  width: 80%;
+  margin-left: 50px;
+  font-family: var(--main-font);
+  text-align: center;
+  vertical-align: middle;
+  display: block;
+}
+
+.about-content {
+  padding: 5vh 8px;
+}
+
+.about-content h1 {
+  font-size: 45px;
+  margin-bottom: 20px;
+}
+
+.about-content h4 {
+  font-size: 19px;
+  padding: 15px 30px;
+  letter-spacing: 0.5px;
+}
